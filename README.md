@@ -1,8 +1,4 @@
-## Aula 6
+## Aula 7
 
 ### Objetivos da aula
-- O que é e para que serve a JSTL;
-- Características principais;
-- Principais tags da JSTL;
-- Java Bean;
-- Maven.
+- Resolução da Lista de Exercícios 
