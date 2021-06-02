@@ -1,7 +1,8 @@
-## Aula 5
+## Aula 6
 
 ### Objetivos da aula
-- Escrever arquivos JSP com scriptlets;
-- Usar Expression Language;
-- Detalhes de Expression Language;
-- Apresentar o conceito de Java Bean.
+- O que é e para que serve a JSTL;
+- Características principais;
+- Principais tags da JSTL;
+- Java Bean;
+- Maven.
