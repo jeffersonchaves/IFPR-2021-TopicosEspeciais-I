@@ -6,6 +6,7 @@
 	<artifactId>Aula8</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
+
 	<build>
 		<plugins>
 			<plugin>
@@ -22,6 +23,7 @@
 		</plugins>
 	</build>
 
+	<!-- MAVEN -->
 	<dependencies>
 		<dependency>
 			<groupId>org.projectlombok</groupId>

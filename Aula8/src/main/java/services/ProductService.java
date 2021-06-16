@@ -17,6 +17,7 @@ public class ProductService {
 	
 	
 	public List<Product> findAll() {
+		//validacoes
 		return repository.findAll();
 	}	
 	
